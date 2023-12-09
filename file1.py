@@ -1,0 +1,1 @@
+print("Men push qilishni o'rgandim")
